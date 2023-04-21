@@ -24,8 +24,3 @@ After creating your account as a new passenger, and sign in, the guidance menu o
 
 • Users have a charging section in their profile where they enter the desired amount. (“Add charge”). Every time a ticket is booked, the ticket amount is deducted from     this charge.
 Note:
-1.The tickets have been booked as "one-way" and “Single” for convenience. Also, the type of flight has been omitted.
-2.you can book tickets If the charge is enough.
-3.In each step, after completing the process, it will be back to the last menu options.
-4.Sign out and back to the login menu using zero code<0>.
-5.The program is never stop and your data will not be deleted Even if you log out.
