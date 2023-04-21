@@ -23,4 +23,5 @@ After creating your account as a new passenger, and sign in, the guidance menu o
 • The “Booked tickets” mode includes all reserved tickets of the user.
 
 • Users have a charging section in their profile where they enter the desired amount. (“Add charge”). Every time a ticket is booked, the ticket amount is deducted from     this charge.
+
 Note:
